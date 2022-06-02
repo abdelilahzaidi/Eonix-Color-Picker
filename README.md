@@ -1,7 +1,7 @@
 # Introduction
 ---
 
-Le projet consiste à réaliser une grille constituée de 10000 céllules, sur chaque céllule, on peut lui changé sa couleur initial avec un clique ou avoir accès à une palette de couleurs via  un clique droit de la souris, cette dernière se ferme une fois qu'on la quitte, sans oublier le fameux dragging qui permet de modifier la couleur des cellules dans la foulés.
+Le projet consiste à réaliser une grille constituée de 10000 céllules, sur chaque céllule, on peut changé sa couleur initial avec un clique ou avoir accès à une palette de couleurs via  un clique droit de la souris, cette dernière se ferme une fois qu'on la quitte, sans oublier le fameux dragging qui permet de modifier la couleur des cellules dans la foulés.
 
 ## Contexte du projet
 ---
